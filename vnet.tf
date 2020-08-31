@@ -8,8 +8,8 @@ resource "azurerm_resource_group" "JenkinsRG" {
 }
 resource "azurerm_virtual_network" "JenkinsDemo" {
   name                = "JenkinsDemo"
-  location            = azurerm_resource_group.myResource.location
-  resource_group_name = azurerm_resource_group.myResource.name
+  location            = azurerm_resource_group.JenkinsRG.location
+  resource_group_name = azurerm_resource_group.JenkinsRG.name
   address_space       = [
     "10.0.0.0/24"
   ]
