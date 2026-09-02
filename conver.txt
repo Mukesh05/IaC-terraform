@@ -1,0 +1,185 @@
+CR-IN-PUN-GLC-2F-VC-12PAX
+0 460:46
+CR-IN-PUN-GLC-2F-VC-12PAX 0 minutes 46 seconds
+Posey.
+CR-IN-PUN-GLC-2F-VC-12PAX 0 minutes 59 seconds
+Pankaj Hari.
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 3 seconds
+It is.
+
+V, Hari Prasad
+1 31:03
+V, Hari Prasad 1 minute 3 seconds
+Yes, I'm here.
+
+Kumar, Pankaj
+1 41:04
+Kumar, Pankaj 1 minute 4 seconds
+Shee.
+C
+
+CR-IN-PUN-GLC-2F-VC-12PAX
+1 81:08
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 8 seconds
+Really?
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 18 seconds
+We should finish that.
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 24 seconds
+It is.
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 26 seconds
+Hello.
+CR-IN-PUN-GLC-2F-VC-12PAX 1 minute 32 seconds
+Okay.
+
+Prasad, Mukesh Kumar
+1 minute 43 seconds1:43
+Prasad, Mukesh Kumar 1 minute 43 seconds
+Mhm.
+CR-IN-PUN-GLC-2F-VC-12PAX 17 minutes 33 seconds
+In terms of interactions and interfaces, I think that we have asked, we have asked for it, but we don't know when, when, and how we get that, so maybe a point to worth discussing with the account team itself, right? Whether there are such API calls to be made, some front-end visualisation that is...
+CR-IN-PUN-GLC-2F-VC-12PAX 17 minutes 52 seconds
+needed for these applications. And these are just things that you may need to consider, not necessarily all of them will be there or exactly in this shape and form, but food for thought basically for you.
+
+Prasad, Mukesh Kumar
+18 minutes 10 seconds18:10
+Prasad, Mukesh Kumar 18 minutes 10 seconds
+It's true. One other thing with our mobile, we are building the overall structure, right? In the role compositions, right? It is BA, BSA, developers and QA. Do we want to factor for some kind of architect roles also, or designer roles or something like that?
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+18 minutes 16 seconds18:16
+CR-IN-PUN-GLC-2F-VC-12PAX 18 minutes 16 seconds
+Mm.
+CR-IN-PUN-GLC-2F-VC-12PAX 18 minutes 31 seconds
+And so, one of the things that we should do, no, they definitely be a be an architect has to be there.
+
+V, Hari Prasad
+18 minutes 31 seconds18:31
+V, Hari Prasad 18 minutes 31 seconds
+S.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+18 minutes 41 seconds18:41
+CR-IN-PUN-GLC-2F-VC-12PAX 18 minutes 41 seconds
+And I was talking with Omkar on the data, so they have to be there. The other thing you want to do is...
+
+Prasad, Mukesh Kumar
+18 minutes 42 seconds18:42
+Prasad, Mukesh Kumar 18 minutes 42 seconds
+Ohh.
+Prasad, Mukesh Kumar 18 minutes 45 seconds
+Mm.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+18 minutes 51 seconds18:51
+CR-IN-PUN-GLC-2F-VC-12PAX 18 minutes 51 seconds
+Will all this be what type of role you have to kind of categorise the pods into co-sourced and fully sourced as well, right?
+CR-IN-PUN-GLC-2F-VC-12PAX 19 minutes
+So, are we?
+
+Prasad, Mukesh Kumar
+19 minutes19:00
+Prasad, Mukesh Kumar 19 minutes
+This one is not going to be largely, this thing will largely be managed by us because even the FTE numbers seem to be very low in this portfolio, hardly around 20 or 30 or FTEs.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+19 minutes 15 seconds19:15
+CR-IN-PUN-GLC-2F-VC-12PAX 19 minutes 15 seconds
+Some, some of the sub-functions of the CES categorise them into sub-functions, right? So some of them could have a heavier FTE slash MGCC. I know here the FTMGCC is low. What you're saying is correct, but in certain areas, if there are more FTE slash MGCC, they may be more post-sourced kind of.
+
+Prasad, Mukesh Kumar
+19 minutes 20 seconds19:20
+Prasad, Mukesh Kumar 19 minutes 20 seconds
+Mhm.
+Prasad, Mukesh Kumar 19 minutes 28 seconds
+Yeah.
+Prasad, Mukesh Kumar 19 minutes 36 seconds
+Okay.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+19 minutes 37 seconds19:37
+CR-IN-PUN-GLC-2F-VC-12PAX 19 minutes 37 seconds
+ports, right, versus other areas which are more fully sourced. We'll do that categorization also. Now, depending on whether it is co-sourced or fully sourced, the role distribution will happen, right? In co-sourced, if your BA architects, scrum master, everything could be met like.
+CR-IN-PUN-GLC-2F-VC-12PAX 19 minutes 56 seconds
+Right, and while we do largely the dev test part of it, right, dev test and the L3 support.
+CR-IN-PUN-GLC-2F-VC-12PAX 20 minutes 5 seconds
+Part of it.
+CR-IN-PUN-GLC-2F-VC-12PAX 20 minutes 8 seconds
+But.
+CR-IN-PUN-GLC-2F-VC-12PAX 20 minutes 18 seconds
+Good.
+
+Khadilkar, Omkar
+20 minutes 19 seconds20:19
+Khadilkar, Omkar 20 minutes 19 seconds
+this EA product ownership is handled by MetLife and they all follow data apps, all follow agile model, agile delivery model. So that's why I was saying that that's why our apps in our case data will be co-sourced going forward. But yeah, that's the pointer.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+39 minutes 42 seconds39:42
+CR-IN-PUN-GLC-2F-VC-12PAX 39 minutes 42 seconds
+So, Mukesh and Hari and Arya here on the call.
+CR-IN-PUN-GLC-2F-VC-12PAX 39 minutes 47 seconds
+You can just get whatever information you require you to reach out to them.
+CK
+Chittanuri, Anand Kumar
+39 minutes 52 seconds39:52
+Chittanuri, Anand Kumar 39 minutes 52 seconds
+Okay, maybe we can take that offline if I am the only person, but Bhavish, if you can help us schedule a call, others can also benefit from what I was thinking.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+39 minutes 53 seconds39:53
+CR-IN-PUN-GLC-2F-VC-12PAX 39 minutes 53 seconds
+Absolutely.
+CR-IN-PUN-GLC-2F-VC-12PAX 39 minutes 57 seconds
+Yeah.
+CK
+Chittanuri, Anand Kumar
+40 minutes 4 seconds40:04
+Chittanuri, Anand Kumar 40 minutes 4 seconds
+Thank you.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+40 minutes 9 seconds40:09
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 9 seconds
+Okay.
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 12 seconds
+Yeah, is right.
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 15 seconds
+Thank you.
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 19 seconds
+When do we want to see the?
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 23 seconds
+No, we should have a test one more, sorry, so let me let us first.
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 28 seconds
+So, I think you, you should build, as we discussed, right? So, the action item is you guys build the details that we just discussed in parallel, while we will work on the template to send out along with the guard tricks that we discussed, but that in the estimates probably, yeah, I can discuss.
+CR-IN-PUN-GLC-2F-VC-12PAX 40 minutes 48 seconds
+reiterate that point and the process flow that we want to know. Yeah, I mean, it will take some time to kind of discuss and interact through it. We'll try and send it out as soon as possible. But what we discussed is essentially what is going to go in. This is the construct part of it, that is the details that will come.
+CK
+Chittanuri, Anand Kumar
+40 minutes 57 seconds40:57
+Chittanuri, Anand Kumar 40 minutes 57 seconds
+Yeah.
+Chittanuri, Anand Kumar 40 minutes 58 seconds
+Right.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+41 minutes 8 seconds41:08
+CR-IN-PUN-GLC-2F-VC-12PAX 41 minutes 8 seconds
+Correct, but the construct is what will go into the details, so I think they have we have discussed all the individual elements of the the template that needs to be built, so you can build start building in parallel for the for the different domains while we work on the template to standardize.
+CR-IN-PUN-GLC-2F-VC-12PAX 41 minutes 31 seconds
+OK, we'll have one touch point maybe tomorrow, but yeah, tomorrow I think is we have to have a touch point, maybe late morning sometime, yeah, 11-ish, yeah.
+CR-IN-PUN-GLC-2F-VC-12PAX 41 minutes 44 seconds
+All right, let's speak tomorrow and hopefully you will have your refinements that we discussed now already by that call. We will need to accelerate over the next couple of days. And so I'm setting up these test points a bit early.
+CR-IN-PUN-GLC-2F-VC-12PAX 42 minutes 2 seconds
+Let's speak again. Thank you.
+CR-IN-PUN-GLC-2F-VC-12PAX 42 minutes 7 seconds
+It does. Thanks, everyone.
+
+Kumar, Pankaj
+42 minutes 10 seconds42:10
+Kumar, Pankaj 42 minutes 10 seconds
+Kalal.
+C
+CR-IN-PUN-GLC-2F-VC-12PAX
+42 minutes 10 seconds42:10
+CR-IN-PUN-GLC-2F-VC-12PAX 42 minutes 10 seconds
+Close.
